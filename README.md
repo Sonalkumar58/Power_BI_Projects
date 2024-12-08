@@ -6,10 +6,15 @@ Data Source: E-commerce data
 Visualizations (likely included):
 
 Profit and loss by month analysis
+
 Bar charts for top catagories
+
 Bar charts for top customers
+
 Bar charts for top States
+
 Pie charts for top category distribution
+
 Pie charts for PaymentMode distribution
 
 Filters:
